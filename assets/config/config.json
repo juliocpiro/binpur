@@ -1,4 +1,5 @@
 {
-    "urlApix" : "http://34.232.66.235:8085/binpur/",
-    "urlApi" : "https://binpur.herokuapp.com/binpur/"
+    "urlApiy" : "https://binpur.herokuapp.com/binpur/",
+    "urlApix" : "http://localhost:8085/binpur/",
+    "urlApi" : "http://54.86.72.193:8085/binpur/"
 }
