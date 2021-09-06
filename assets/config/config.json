@@ -1,5 +1,4 @@
 {
-    "urlApiy" : "https://binpur.herokuapp.com/binpur/",
-    "urlApix" : "http://localhost:8085/binpur/",
-    "urlApi" : "http://54.86.72.193:8085/binpur/"
+  "urlApix" : "http://localhost:8082/ux-facialidentity/",
+  "urlApi" : "http://3.129.227.40:8082/ux-facialidentity/"
 }
